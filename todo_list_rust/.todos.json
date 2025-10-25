@@ -1,0 +1,30 @@
+[
+  {
+    "Tarea": "entrega de rust",
+    "Estado": "Pendiente",
+    "Creado_en": "2025-10-17T18:31:10.925784300-04:00",
+    "Fecha_entrega": "2025-10-20T23:59:59.000000000-0400",
+    "Completado_en": null
+  },
+  {
+    "Tarea": "comprar leche",
+    "Estado": "Pendiente",
+    "Creado_en": "2025-10-17T18:38:13.605749800-04:00",
+    "Fecha_entrega": "2025-10-11T23:59:59.000000000-0400",
+    "Completado_en": null
+  },
+  {
+    "Tarea": "comprar agua",
+    "Estado": "Completada",
+    "Creado_en": "2025-10-17T18:38:32.685729-04:00",
+    "Fecha_entrega": "2025-10-15T23:59:59.000000000-0400",
+    "Completado_en": "2025-10-17T18:38:44.729595300-0400"
+  },
+  {
+    "Tarea": "comprar pan",
+    "Estado": "Progreso",
+    "Creado_en": "2025-10-17T18:40:29.467091100-04:00",
+    "Fecha_entrega": null,
+    "Completado_en": null
+  }
+]
